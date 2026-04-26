@@ -7,3 +7,7 @@ Sign language detector with Python, OpenCV and Mediapipe
 3. Run train_classifier.py to train the model
 4. If you need more run append_new_data on whatever class needs more data
 5. Run inference_classifier to try it out!
+
+## TO run:
+1. conda activate vision
+2. .\.venv\Scripts\Activate.ps1 
